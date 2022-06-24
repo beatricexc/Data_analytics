@@ -1,3 +1,3 @@
 # Data_analytics
 
-Data cleaning and transforming techniques
+Data cleaning and transformation techniques
